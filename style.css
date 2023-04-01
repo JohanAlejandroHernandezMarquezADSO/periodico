@@ -1,0 +1,149 @@
+body{
+    text-align: center;
+    margin: 0;
+}
+main{
+    height: 150vh;
+    width: 50vw;
+    background-color: #c9ba93;
+    display: inline-block;
+}
+.contenido-izquierdo{
+    width: 50%;
+    height: 100%;
+    display: block;
+    margin: 0;
+    float: left;
+}
+.contenido-superior-izquierdo{
+    height: 50%;
+    width: 100%;
+    font-size: 10px;
+}
+.div1{
+    width: 48%;
+    height: 100%;
+    display: block;
+    float: left;
+    border: solid;
+}
+.contenido1-div1{
+    width: 100%;
+}
+.contenido2-div1{
+    width: 100%;
+}
+.div2{
+    width: 48%;
+    height: 100%;
+    display: inline-block;
+    border: solid;
+}
+.contenido1-div2{
+    width: 100%;
+}
+.contenido2-div2{
+    width: 70%;
+    display: inline-block;
+}
+.lista1{
+    text-align: left;
+    width: 90%;
+    position: relative;
+    right: 20%;
+}
+.code{
+    display: block;
+    position: relative;
+    right: 20%;
+    font-size: 28px;
+    text-align: left;
+    float: left;
+    width: 150%;
+}
+.number{
+    display:inline-block;
+    position: relative;
+    font-size: 12px;
+}
+.contenido-inferior-izquierdo{
+    height: 46%;
+    width: 98%;
+    border: double;
+    margin-top: 8%;
+}
+.title{
+    display: inline;
+    font-size: 50px;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+.subtitle{
+    display: inline;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+.title-description{
+    font-size: 12px;
+}
+.texto-izquierdo{
+    display: inline;
+    width: 48%;
+    text-align: justify;
+    float: left;
+}
+.texto-derecho{
+    display: inline;
+    width: 48%;
+    text-align: justify;
+    float: right;
+}
+.imagen-inferior-izquierdo{
+    position: absolute;
+    bottom: -200px;
+    left: 450px;
+    display: inline-block;
+}
+.texto-final-inferior-izquierdo{
+    width: 80%;
+    position: relative;
+    top: 10%;
+    display: inline-block;
+}
+.contenido-derecho{
+    width: 49%;
+    height: 100%;
+    margin: 0;
+    display: inline-block;
+}
+.contenido-superior-derecho{
+    width: 100%;
+    height: 80%;
+    display: block;
+}
+.parrafo-izquierdo{
+    display: block;
+    float: left;
+    width: 49%;
+    text-align: justify;
+}
+.parrafo-derecho{
+    display: block;
+    float: right;
+    width: 49%;
+    text-align: justify;
+}
+.contenido-inferior-derecho{
+    width: 100%;
+    height: 20%;
+    display: block;
+}
+.fotos{
+    height: 100%;
+    display: inline-block;
+}
+.texto-fotos{
+    height: 100%;
+    
+    display: inline-block;
+}
